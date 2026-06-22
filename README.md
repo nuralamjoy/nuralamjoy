@@ -8,23 +8,27 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Competitive+Programmer;Future+Researcher;Aspiring+Software+Engineer" />
   </p>
 
-  <p style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-top: 10px;">
-    <a href="https://www.linkedin.com/in/nuralamjoy1228/" target="_blank" >
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://www.kaggle.com/nuralamjoy" target="_blank" >
-      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Badge"/>
-    </a>
-    <a href="https://nur-alam-joy.netlify.app/" target="_blank" >
-      <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio Badge"/>
-    </a>
-    <a href="mailto:ajnmuralam@gmail.com" target="_blank" >
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-    </a>
-  </p>
-  <p>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=RuhulAminSharif.RuhulAminSharif&"  />
-  </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/nuralamjoy1228/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://www.kaggle.com/nuralamjoy" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://nur-alam-joy.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="mailto:ajnmuralam@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+ 
 </div>
 
 ### 🔭 About Me
