@@ -4,8 +4,8 @@
   
   # Hi there, I'm Nur Alam Joy! 👋
 
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&lines=Competetive+Programmer;Machine+Learning+Enthusiasts&center=true&width=500&height=45" alt="Ruhul Amin Sharif">
+ <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Competitive+Programmer;Future+Researcher;Aspiring+Software+Engineer" />
   </p>
 
   <p style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-top: 10px;">
