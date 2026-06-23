@@ -78,10 +78,8 @@
     </div>
     <div >
       <h3>🔥 GitHub Streak</h3>
-      <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=nuralamjoy&theme=codeSTACKr" alt="GitHub Streak" /> -->
-      <a href="https://git.io">
-  <img src="https://demolab.com" alt="GitHub Streak" />
-</a>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nuralamjoy&theme=codeSTACKr" alt="GitHub Streak" />
+      
     </div>
   </div>
 </div>
