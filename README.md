@@ -43,7 +43,7 @@
 - 🏆 Achievements:
   - **ICPC Asia Dhaka Regional Finalist 2024**
   - Participated in **15+ Inter University Programming Contests (IUPC)**
-  - Solved **2000+ problems** on various online judges
+  - Solved **2000+ problems** on various online judges and ofline
 - 🎯 Career Goal: Contribute to research in AI and Software Engineering.
 - 📫 Reach me: ajnuralam@gmail.com
 - ⚡ Fun Fact: I enjoy breaking down complex algorithmic challenges and transforming research ideas into practical solutions.
